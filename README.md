@@ -14,7 +14,7 @@
 
 ## This Project Is Perfect For Your First Pull Request
 
-🗣 **Hacktoberfest encourages participation in the open-source community, which grows bigger every year. Complete the challenge and get a tree planted on your name showing your love towards mother Earth 🌍**
+🗣 **Hacktoberfest encourages participation in the open-source community, which grows bigger every year. Complete the challenge and get a tree planted in your name showing your love towards mother Earth 🌍**
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st 🔥.**
 
@@ -32,9 +32,9 @@
 ## INSTRUCTIONS-
 
 - Fork this Repository using the button at the top on the right corner.
-- Clone your forked repository to your PC ( git clone "url from clone option.)
+- Clone your forked repository to your PC (git clone "url from clone option.)
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out  `git checkout new-user` or simply do `git checkout -b new-user`)
-- Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
+- Add your profile image in `static/images/` (use drag and drop option or upload by commands.)
 - Add your profile data in `content/participant/`
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Create a pull request
@@ -46,7 +46,7 @@ Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ## 1. Add your profile picture to the folder
 
-Add a picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
+Add a picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size of 544x544 pixels. Ex.
 
 ```
 static/images/<YOUR-USERNAME>.png
@@ -70,7 +70,7 @@ Copy the next template into your file, delete the boilerplate data and fill the 
 
 ### Location
 
-city / country
+city/country
 
 ### Academics
 -
