@@ -1,6 +1,6 @@
 ---
 
-# KARANJOT SINGH DULAY
+# shresritik
 
 ### Location
 
